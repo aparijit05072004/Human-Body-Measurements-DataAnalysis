@@ -1,4 +1,4 @@
-# NHANES Body Metrics Analysis 📊
+# Human Body Measuremens Data Analysis 📊
 
 > End-to-end data analysis of real-world health survey data using NumPy & Matplotlib
 
